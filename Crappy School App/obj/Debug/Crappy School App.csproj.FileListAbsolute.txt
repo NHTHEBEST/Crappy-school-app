@@ -1,0 +1,7 @@
+C:\Users\noam.hadar\source\repos\Crappy School App\Crappy School App\bin\Debug\Crappy School App.exe.config
+C:\Users\noam.hadar\source\repos\Crappy School App\Crappy School App\bin\Debug\Crappy School App.exe
+C:\Users\noam.hadar\source\repos\Crappy School App\Crappy School App\bin\Debug\Crappy School App.pdb
+C:\Users\noam.hadar\source\repos\Crappy School App\Crappy School App\obj\Debug\Crappy School App.csprojResolveAssemblyReference.cache
+C:\Users\noam.hadar\source\repos\Crappy School App\Crappy School App\obj\Debug\Crappy School App.csproj.CoreCompileInputs.cache
+C:\Users\noam.hadar\source\repos\Crappy School App\Crappy School App\obj\Debug\Crappy School App.exe
+C:\Users\noam.hadar\source\repos\Crappy School App\Crappy School App\obj\Debug\Crappy School App.pdb
